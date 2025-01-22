@@ -1,0 +1,72 @@
+/* style sheets */
+
+body {
+    background-color: rgb(232, 228, 223);
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+}
+
+section > p, 
+section > blockquote {
+    line-height: 1.3;
+}
+
+#main-character{
+    font-weight: 590;
+}
+
+ol > li > span#favorite-movie{
+    font-style: italic;
+}
+
+.underline-text{
+    text-decoration: underline;
+}
+
+code{
+    letter-spacing: 0.2em;
+    font-size: 16px;
+    font-weight: 100;
+    color: #bebdbd;
+}
+
+section#description,
+section#characters,
+section#quotes,
+section#movies,
+section#revenue
+{
+    background-color: rgb(242, 238, 233);
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#description img{
+    max-width: 100%;
+    min-height: 120;
+}
+
+#about-movie{
+    font-weight: 597;
+    margin-bottom: 0%;
+}
+
+.h3-titles{
+    font-weight: 597;
+    margin-bottom: 0%
+}
+
+section#description > p {
+    margin-top: 0.5%;
+}
+
+.images{
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);   
+}
