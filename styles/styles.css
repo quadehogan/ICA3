@@ -39,7 +39,8 @@ section#description,
 section#characters,
 section#quotes,
 section#movies,
-section#revenue
+section#revenue,
+section.nav
 {
     background-color: rgb(242, 238, 233);
     width: 80%;
