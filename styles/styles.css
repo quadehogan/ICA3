@@ -70,3 +70,9 @@ section#description > p {
     border-radius: 15px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);   
 }
+
+.navigation{
+    text-decoration: none;
+    color: inherit;
+    
+}
